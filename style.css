@@ -1,0 +1,42 @@
+/* Selector {
+  Property: value;
+} */
+
+* {
+  text-align: right;
+}
+
+body {
+  background-image: url(Triangular-Arbitrage.png);
+  background-size: cover;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  border: 5px solid purple;
+}
+
+p {
+  color: green
+}
+
+li {
+  list-style: none;
+}
+
+.webtext {
+  border: 5px solid blue;
+}
+
+.active {
+  color: red
+}
+
+#div1 {
+  background: rgba(0, 0, 255, 0.2);
+}
+
+#div2 {
+  background: rgba(255, 0, 0, 0.2);
+}
